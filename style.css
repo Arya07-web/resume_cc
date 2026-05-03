@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+    /* rem unit */
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+.header-area {
+    background-color: #11494a;
+    color: white;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.main-title {
+    font-size: 2.5rem;
+}
+
+.tagline {
+    font-size: 1.2rem;
+}
+
+/* Profile Image */
+.profile-img {
+    width: 70%;
+    /* percentage unit */
+    max-width: 200px;
+    /* px unit */
+    border-radius: 50%;
+    margin-top: 1rem;
+}
+
+/* Sections */
+section {
+    margin-bottom: 2rem;
+}
+
+h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+/* Table */
+table {
+    width: 100%;
+    font-size: 1rem;
+}
+
+.footer-area {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+
+.navigation{
+    display: flex;
+}
